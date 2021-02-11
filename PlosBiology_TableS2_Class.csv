@@ -1,0 +1,511 @@
+Class,Order,Family,Species,RLS,Mass_kg,Diet,Slope,Status,Hunted,Case,Site
+Aves,Ciconiiformes,Threskiornithidae,Lophotibis cristata,Near Threatened,0.85,Omnivore,0.05,Stable,Y,2,RNF
+Aves,Columbiformes,Columbidae,Aplopelia larvata,Least Concern,0.116,Herbivore,0.11,Increasing,Y,2,UDZ
+Aves,Columbiformes,Columbidae,Chalcophaps indica,Least Concern,0.107,Herbivore,0,Unknown,N,3,BBS
+Aves,Columbiformes,Columbidae,Chalcophaps indica,Least Concern,0.107,Herbivore,0.28,Unknown,U,3,NAK
+Aves,Columbiformes,Columbidae,Chalcophaps indica,Least Concern,0.107,Herbivore,-0.23,Unknown,U,3,PSH
+Aves,Columbiformes,Columbidae,Geotrygon frenata,Least Concern,0.305,Omnivore,0,Unknown,N,3,YAN
+Aves,Columbiformes,Columbidae,Geotrygon montana,Least Concern,0.28,Omnivore,-0.33,Decreasing,U,2,BCI
+Aves,Columbiformes,Columbidae,Geotrygon montana,Least Concern,0.28,Omnivore,0.21,Unknown,N,3,CAX
+Aves,Columbiformes,Columbidae,Geotrygon montana,Least Concern,0.28,Omnivore,-0.04,Unknown,N,3,COU
+Aves,Columbiformes,Columbidae,Geotrygon montana,Least Concern,0.28,Omnivore,-0.27,Decreasing,U,3,CSN
+Aves,Columbiformes,Columbidae,Geotrygon montana,Least Concern,0.28,Omnivore,-0.43,Decreasing,U,2,YAS
+Aves,Columbiformes,Columbidae,Geotrygon violacea,Least Concern,0.19,Omnivore,-0.43,Unknown,N,3,COU
+Aves,Columbiformes,Columbidae,Geotrygon violacea,Least Concern,0.19,Omnivore,-0.69,Decreasing,U,3,CSN
+Aves,Columbiformes,Columbidae,Leptotila cassini,Least Concern,0.156,Omnivore,-0.26,Decreasing,U,2,BCI
+Aves,Columbiformes,Columbidae,Leptotila rufaxilla,Least Concern,0.155,Omnivore,0.16,Increasing,N,2,COU
+Aves,Columbiformes,Columbidae,Leptotila rufaxilla,Least Concern,0.155,Omnivore,0.17,Increasing,U,2,CSN
+Aves,Columbiformes,Columbidae,Leptotila rufaxilla,Least Concern,0.155,Omnivore,-0.25,Unknown,Y,3,YAS
+Aves,Columbiformes,Columbidae,Leptotila verreauxi,Least Concern,0.155,Omnivore,-0.17,Unknown,U,3,BCI
+Aves,Columbiformes,Columbidae,Turtur brehmeri,Least Concern,0.113,Omnivore,-0.48,Decreasing,N,2,KRP
+Aves,Columbiformes,Columbidae,Turtur brehmeri,Least Concern,0.113,Omnivore,0.19,Unknown,N,3,NNN
+Aves,Coraciiformes,Momotidae,Baryphthengus martii,Least Concern,0.195,Omnivore,-0.29,Unknown,U,3,YAS
+Aves,Coraciiformes,Brachypteraciidae,Brachypteracias squamiger,Vulnerable,0.17,Insectivore,0.1,Unknown,Y,3,RNF
+Aves,Cuculiformes,Cuculidae,Coua reynaudii,Least Concern,0.153,Omnivore,-0.25,Decreasing,Y,3,RNF
+Aves,Cuculiformes,Cuculidae,Neomorphus geoffroyi,Least Concern,0.35,Omnivore,-0.26,Unknown,U,3,BCI
+Aves,Cuculiformes,Cuculidae,Neomorphus geoffroyi,Least Concern,0.35,Omnivore,-0.04,Unknown,N,3,COU
+Aves,Cuculiformes,Cuculidae,Neomorphus geoffroyi,Least Concern,0.35,Omnivore,0.69,Increasing,N,3,YAN
+Aves,Cuculiformes,Cuculidae,Neomorphus geoffroyi,Least Concern,0.35,Omnivore,-0.25,Unknown,U,3,YAS
+Aves,Galliformes,Numididae,Agelastes niger,Least Concern,1.15,Omnivore,-0.35,Stable,U,1,KRP
+Aves,Galliformes,Numididae,Agelastes niger,Least Concern,1.15,Omnivore,0.07,Stable,N,2,NNN
+Aves,Galliformes,Phasianidae,Arborophila chloropus,Least Concern,0.27,Omnivore,0.13,Unknown,Y,3,NAK
+Aves,Galliformes,Phasianidae,Argusianus argus,Near Threatened,2.38,Omnivore,0.1,Increasing,N,1,BBS
+Aves,Galliformes,Phasianidae,Argusianus argus,Near Threatened,2.38,Omnivore,-0.36,Decreasing,Y,3,PSH
+Aves,Galliformes,Cracidae,Crax alector,Vulnerable,3.95,Omnivore,0.07,Stable,Y,1,CSN
+Aves,Galliformes,Cracidae,Crax rubra,Vulnerable,3.95,Omnivore,0.11,Stable,Y,2,BCI
+Aves,Galliformes,Cracidae,Crax rubra,Vulnerable,3.95,Omnivore,-0.14,Decreasing,Y,2,VB
+Aves,Galliformes,Phasianidae,Francolinus lathami,Least Concern,0.269,Herbivore,0.11,Stable,N,2,KRP
+Aves,Galliformes,Phasianidae,Francolinus lathami,Least Concern,0.269,Herbivore,0.12,Increasing,N,2,NNN
+Aves,Galliformes,Phasianidae,Francolinus nobilis,Least Concern,0.757,Herbivore,0.22,Increasing,Y,2,BIF
+Aves,Galliformes,Phasianidae,Francolinus pintadeanus,Least Concern,0.34,Herbivore,-0.41,Unknown,Y,3,NAK
+Aves,Galliformes,Phasianidae,Francolinus squamatus,Least Concern,0.472,Herbivore,0.16,Unknown,Y,3,UDZ
+Aves,Galliformes,Phasianidae,Gallus gallus,Least Concern,0.914,Omnivore,0,Unknown,N,3,BBS
+Aves,Galliformes,Phasianidae,Gallus gallus,Least Concern,0.914,Omnivore,-0.32,Unknown,Y,3,NAK
+Aves,Galliformes,Phasianidae,Gallus gallus,Least Concern,0.914,Omnivore,-0.03,Unknown,Y,3,PSH
+Aves,Galliformes,Numididae,Guttera plumifera,Least Concern,1.2,Omnivore,-0.15,Decreasing,N,2,NNN
+Aves,Galliformes,Numididae,Guttera pucherani,Least Concern,1.2,Omnivore,0.03,Unknown,Y,3,BIF
+Aves,Galliformes,Numididae,Guttera pucherani,Least Concern,1.2,Omnivore,0.17,Increasing,Y,1,UDZ
+Aves,Galliformes,Phasianidae,Lophura diardi,Least Concern,1.041,Omnivore,-0.04,Stable,Y,2,NAK
+Aves,Galliformes,Phasianidae,Lophura ignita,Near Threatened,1.815,Omnivore,0.22,Unknown,U,3,PSH
+Aves,Galliformes,Phasianidae,Lophura nycthemera,Least Concern,1.358,Omnivore,-0.13,Unknown,Y,3,NAK
+Aves,Galliformes,Cracidae,Mitu salvini,Least Concern,3.1,Omnivore,0.27,Increasing,Y,2,YAS
+Aves,Galliformes,Cracidae,Mitu tuberosum,Least Concern,3.06,Omnivore,-0.26,Decreasing,Y,2,CAX
+Aves,Galliformes,Cracidae,Mitu tuberosum,Least Concern,3.06,Omnivore,0.26,Increasing,N,1,COU
+Aves,Galliformes,Cracidae,Mitu tuberosum,Least Concern,3.06,Omnivore,0.12,Stable,N,1,YAN
+Aves,Galliformes,Cracidae,Nothocrax urumutum,Least Concern,1.7,Herbivore,-0.01,Stable,Y,2,YAS
+Aves,Galliformes,Numididae,Numida meleagris,Least Concern,1.375,Omnivore,0,Unknown,Y,3,RNF
+Aves,Galliformes,Odontophoridae,Odontophorus gujanensis,Near Threatened,0.28,Omnivore,-0.41,Unknown,U,3,BCI
+Aves,Galliformes,Odontophoridae,Odontophorus gujanensis,Near Threatened,0.28,Omnivore,-0.01,Unknown,U,3,CSN
+Aves,Galliformes,Odontophoridae,Odontophorus gujanensis,Near Threatened,0.28,Omnivore,-0.02,Stable,Y,2,YAS
+Aves,Galliformes,Odontophoridae,Odontophorus leucolaemus,Least Concern,0.275,Omnivore,-0.1,Unknown,N,3,VB
+Aves,Galliformes,Odontophoridae,Odontophorus stellatus,Least Concern,0.295,Omnivore,0.15,Stable,N,2,COU
+Aves,Galliformes,Cracidae,Penelope jacquacu,Least Concern,1.46,Herbivore,-0.29,Decreasing,N,3,COU
+Aves,Galliformes,Cracidae,Penelope jacquacu,Least Concern,1.46,Herbivore,-0.33,Decreasing,N,3,CSN
+Aves,Galliformes,Cracidae,Penelope jacquacu,Least Concern,1.46,Herbivore,0.25,Increasing,N,3,YAN
+Aves,Galliformes,Cracidae,Penelope jacquacu,Least Concern,1.46,Herbivore,0.29,Stable,Y,2,YAS
+Aves,Galliformes,Cracidae,Penelope pileata,Vulnerable,1.26,Herbivore,0.06,Unknown,Y,3,CAX
+Aves,Galliformes,Cracidae,Penelope purpurascens,Least Concern,1.75,Herbivore,0.15,Unknown,Y,3,BCI
+Aves,Galliformes,Cracidae,Penelope purpurascens,Least Concern,1.75,Herbivore,-0.18,Decreasing,Y,3,VB
+Aves,Galliformes,Cracidae,Penelope superciliaris,Least Concern,1.075,Herbivore,-0.85,Decreasing,Y,3,CAX
+Aves,Galliformes,Phasianidae,Polyplectron bicalcaratum,Least Concern,0.737,Omnivore,-0.49,Decreasing,Y,3,NAK
+Aves,Galliformes,Phasianidae,Rollulus rouloul,Near Threatened,0.217,Omnivore,0.26,Increasing,N,3,BBS
+Aves,Gruiformes,Rallidae,Aramides cajaneus,Least Concern,0.397,Omnivore,-0.3,Unknown,U,3,BCI
+Aves,Gruiformes,Rallidae,Aramides cajaneus,Least Concern,0.397,Omnivore,0.09,Unknown,N,3,COU
+Aves,Gruiformes,Rallidae,Aramides cajaneus,Least Concern,0.397,Omnivore,-0.21,Unknown,N,3,CSN
+Aves,Gruiformes,Rallidae,Canirallus kioloides,Least Concern,0.269,Omnivore,-0.25,Decreasing,N,3,RNF
+Aves,Gruiformes,Rallidae,Canirallus oculeus,Least Concern,0.277,Omnivore,-0.22,Unknown,N,3,KRP
+Aves,Gruiformes,Rallidae,Himantornis haematopus,Least Concern,0.39,Omnivore,-1.34,Decreasing,N,1,KRP
+Aves,Gruiformes,Psophiidae,Psophia crepitans,Least Concern,1.3,Omnivore,0.06,Stable,Y,1,CSN
+Aves,Gruiformes,Psophiidae,Psophia crepitans,Least Concern,1.3,Omnivore,0.19,Stable,Y,1,YAS
+Aves,Gruiformes,Psophiidae,Psophia leucoptera,Least Concern,1.25,Omnivore,-0.03,Stable,N,1,COU
+Aves,Gruiformes,Psophiidae,Psophia viridis,Endangered,1.1,Omnivore,0.22,Stable,Y,1,CAX
+Aves,Passeriformes,Picathartidae,Picathartes oreas,Vulnerable,0.225,Omnivore,-0.26,Unknown,U,3,KRP
+Aves,Tinamiformes,Tinamidae,Crypturellus bartletti,Least Concern,0.241,Omnivore,0.37,Increasing,N,2,COU
+Aves,Tinamiformes,Tinamidae,Crypturellus bartletti,Least Concern,0.241,Omnivore,-0.21,Unknown,U,3,YAS
+Aves,Tinamiformes,Tinamidae,Crypturellus cinereus,Least Concern,0.575,Omnivore,-0.32,Decreasing,N,3,COU
+Aves,Tinamiformes,Tinamidae,Crypturellus cinereus,Least Concern,0.575,Omnivore,-0.03,Unknown,Y,3,CSN
+Aves,Tinamiformes,Tinamidae,Crypturellus erythropus,Least Concern,0.384,Omnivore,0.12,Unknown,Y,3,CSN
+Aves,Tinamiformes,Tinamidae,Crypturellus soui,Least Concern,0.22,Omnivore,0.17,Unknown,U,3,BCI
+Aves,Tinamiformes,Tinamidae,Crypturellus soui,Least Concern,0.22,Omnivore,0.39,Increasing,N,2,COU
+Aves,Tinamiformes,Tinamidae,Crypturellus soui,Least Concern,0.22,Omnivore,-0.07,Unknown,Y,3,CSN
+Aves,Tinamiformes,Tinamidae,Crypturellus soui,Least Concern,0.22,Omnivore,0.14,Unknown,N,3,YAN
+Aves,Tinamiformes,Tinamidae,Crypturellus soui,Least Concern,0.22,Omnivore,-0.29,Decreasing,U,3,YAS
+Aves,Tinamiformes,Tinamidae,Crypturellus strigulosus,Least Concern,0.421,Omnivore,-0.43,Unknown,Y,3,CAX
+Aves,Tinamiformes,Tinamidae,Crypturellus undulatus,Least Concern,0.3,Omnivore,-0.22,Decreasing,N,3,COU
+Aves,Tinamiformes,Tinamidae,Crypturellus undulatus,Least Concern,0.3,Omnivore,-0.21,Unknown,U,3,YAS
+Aves,Tinamiformes,Tinamidae,Crypturellus variegatus,Least Concern,0.384,Omnivore,-0.1,Unknown,Y,3,CAX
+Aves,Tinamiformes,Tinamidae,Crypturellus variegatus,Least Concern,0.384,Omnivore,-0.1,Unknown,N,3,COU
+Aves,Tinamiformes,Tinamidae,Crypturellus variegatus,Least Concern,0.384,Omnivore,0.13,Increasing,Y,2,CSN
+Aves,Tinamiformes,Tinamidae,Crypturellus variegatus,Least Concern,0.384,Omnivore,-0.23,Stable,U,2,YAS
+Aves,Tinamiformes,Tinamidae,Nothocercus bonapartei,Least Concern,0.925,Omnivore,0.07,Unknown,N,3,VB
+Aves,Tinamiformes,Tinamidae,Tinamus guttatus,Near Threatened,0.689,Omnivore,-0.9,Decreasing,Y,3,CAX
+Aves,Tinamiformes,Tinamidae,Tinamus guttatus,Near Threatened,0.689,Omnivore,0.06,Unknown,N,3,COU
+Aves,Tinamiformes,Tinamidae,Tinamus guttatus,Near Threatened,0.689,Omnivore,-0.32,Unknown,N,3,YAN
+Aves,Tinamiformes,Tinamidae,Tinamus guttatus,Near Threatened,0.689,Omnivore,-0.18,Unknown,U,3,YAS
+Aves,Tinamiformes,Tinamidae,Tinamus major,Near Threatened,1.1,Omnivore,-0.29,Decreasing,Y,1,BCI
+Aves,Tinamiformes,Tinamidae,Tinamus major,Near Threatened,1.1,Omnivore,0.3,Unknown,Y,3,CAX
+Aves,Tinamiformes,Tinamidae,Tinamus major,Near Threatened,1.1,Omnivore,0.2,Increasing,N,2,COU
+Aves,Tinamiformes,Tinamidae,Tinamus major,Near Threatened,1.1,Omnivore,0.08,Increasing,Y,1,CSN
+Aves,Tinamiformes,Tinamidae,Tinamus major,Near Threatened,1.1,Omnivore,-0.43,Decreasing,Y,3,VB
+Aves,Tinamiformes,Tinamidae,Tinamus major,Near Threatened,1.1,Omnivore,0.43,Unknown,N,3,YAN
+Aves,Tinamiformes,Tinamidae,Tinamus major,Near Threatened,1.1,Omnivore,-0.36,Decreasing,Y,1,YAS
+Aves,Tinamiformes,Tinamidae,Tinamus tao,Vulnerable,1.674,Omnivore,-0.44,Decreasing,Y,3,CAX
+Aves,Tinamiformes,Tinamidae,Tinamus tao,Vulnerable,1.674,Omnivore,0.23,Increasing,N,2,COU
+Aves,Tinamiformes,Tinamidae,Tinamus tao,Vulnerable,1.674,Omnivore,-0.47,Decreasing,N,2,YAN
+Mammalia,Afrosoricida,Tenrecidae,Hemicentetes nigriceps,Least Concern,100,Carnivore,-0.85,Decreasing,Y,3,RNF
+Mammalia,Afrosoricida,Tenrecidae,Hemicentetes semispinosus,Least Concern,0.138,Carnivore,0.43,Unknown,Y,3,RNF
+Mammalia,Afrosoricida,Tenrecidae,Setifer setosus,Least Concern,0.213,Insectivore,0.23,Increasing,Y,3,RNF
+Mammalia,Afrosoricida,Tenrecidae,Tenrec ecaudatus,Least Concern,0.868,Omnivore,0.04,Stable,Y,2,RNF
+Mammalia,Carnivora,Viverridae,Arctictis binturong,Vulnerable,13,Carnivore,-0.13,Unknown,N,3,BBS
+Mammalia,Carnivora,Viverridae,Arctictis binturong,Vulnerable,13,Carnivore,0.38,Increasing,Y,3,NAK
+Mammalia,Carnivora,Viverridae,Arctictis binturong,Vulnerable,13,Carnivore,-0.63,Decreasing,U,3,PSH
+Mammalia,Carnivora,Mustelidae,Arctonyx collaris,Near Threatened,6.356,Carnivore,-0.09,Unknown,Y,3,NAK
+Mammalia,Carnivora,Canidae,Atelocynus microtis,Near Threatened,7.75,Carnivore,-0.43,Unknown,N,3,CAX
+Mammalia,Carnivora,Canidae,Atelocynus microtis,Near Threatened,7.75,Carnivore,-0.86,Decreasing,N,3,COU
+Mammalia,Carnivora,Canidae,Atelocynus microtis,Near Threatened,7.75,Carnivore,0.42,Unknown,N,3,YAN
+Mammalia,Carnivora,Canidae,Atelocynus microtis,Near Threatened,7.75,Carnivore,0.12,Stable,U,2,YAS
+Mammalia,Carnivora,Herpestidae,Atilax paludinosus,Least Concern,3.3,Carnivore,-0.79,Unknown,N,3,BIF
+Mammalia,Carnivora,Herpestidae,Atilax paludinosus,Least Concern,3.3,Carnivore,1.26,Increasing,Y,3,KRP
+Mammalia,Carnivora,Herpestidae,Atilax paludinosus,Least Concern,3.3,Carnivore,0.41,Increasing,N,2,NNN
+Mammalia,Carnivora,Herpestidae,Atilax paludinosus,Least Concern,3.3,Carnivore,0.02,Unknown,U,3,UDZ
+Mammalia,Carnivora,Herpestidae,Bdeogale crassicauda,Least Concern,1.55,Carnivore,0.03,Stable,U,1,UDZ
+Mammalia,Carnivora,Herpestidae,Bdeogale nigripes,Least Concern,2.5,Carnivore,-0.32,Unknown,Y,3,KRP
+Mammalia,Carnivora,Herpestidae,Bdeogale nigripes,Least Concern,2.5,Carnivore,0.19,Increasing,N,2,NNN
+Mammalia,Carnivora,Canidae,Canis adustus,Least Concern,10.25,Carnivore,-0.16,Unknown,Y,3,BIF
+Mammalia,Carnivora,Canidae,Canis latrans,Least Concern,11.99,Carnivore,0.37,Unknown,U,3,BCI
+Mammalia,Carnivora,Felidae,Caracal aurata,Near Threatened,16,Carnivore,-0.43,Decreasing,N,2,BIF
+Mammalia,Carnivora,Felidae,Caracal aurata,Near Threatened,16,Carnivore,-0.11,Stable,N,2,NNN
+Mammalia,Carnivora,Viverridae,Civettictis civetta,Least Concern,12,Omnivore,0,Unknown,N,3,BIF
+Mammalia,Carnivora,Viverridae,Civettictis civetta,Least Concern,12,Omnivore,0.66,Unknown,Y,3,KRP
+Mammalia,Carnivora,Viverridae,Civettictis civetta,Least Concern,12,Omnivore,-0.57,Decreasing,N,3,NNN
+Mammalia,Carnivora,Viverridae,Civettictis civetta,Least Concern,12,Omnivore,-0.27,Unknown,U,3,UDZ
+Mammalia,Carnivora,Mephitidae,Conepatus semistriatus,Least Concern,1.2,Carnivore,-0.18,Unknown,N,3,VB
+Mammalia,Carnivora,Hyaenidae,Crocuta crocuta,Least Concern,63,Carnivore,-0.24,Decreasing,N,3,UDZ
+Mammalia,Carnivora,Herpestidae,Crossarchus obscurus,Least Concern,1.395,Omnivore,0.04,Stable,Y,2,KRP
+Mammalia,Carnivora,Eupleridae,Cryptoprocta ferox,Vulnerable,9.5,Carnivore,0.23,Increasing,N,2,RNF
+Mammalia,Carnivora,Canidae,Cuon alpinus,Endangered,12.76,Carnivore,-0.26,Unknown,N,3,BBS
+Mammalia,Carnivora,Canidae,Cuon alpinus,Endangered,12.76,Carnivore,0.1,Unknown,U,3,NAK
+Mammalia,Carnivora,Canidae,Cuon alpinus,Endangered,12.76,Carnivore,-0.81,Unknown,U,3,PSH
+Mammalia,Carnivora,Viverridae,Cynogale bennettii,Endangered,4.5,Carnivore,-0.13,Unknown,N,3,BBS
+Mammalia,Carnivora,Mustelidae,Eira barbara,Least Concern,3.91,Omnivore,0.09,Stable,U,2,BCI
+Mammalia,Carnivora,Mustelidae,Eira barbara,Least Concern,3.91,Omnivore,0.1,Stable,N,2,CAX
+Mammalia,Carnivora,Mustelidae,Eira barbara,Least Concern,3.91,Omnivore,0.19,Stable,N,2,COU
+Mammalia,Carnivora,Mustelidae,Eira barbara,Least Concern,3.91,Omnivore,0.09,Unknown,N,3,CSN
+Mammalia,Carnivora,Mustelidae,Eira barbara,Least Concern,3.91,Omnivore,0,Unknown,N,3,VB
+Mammalia,Carnivora,Mustelidae,Eira barbara,Least Concern,3.91,Omnivore,0.08,Stable,N,2,YAN
+Mammalia,Carnivora,Mustelidae,Eira barbara,Least Concern,3.91,Omnivore,0.02,Stable,U,2,YAS
+Mammalia,Carnivora,Eupleridae,Eupleres goudotii,Near Threatened,1.5,Carnivore,-0.39,Decreasing,Y,3,RNF
+Mammalia,Carnivora,Eupleridae,Fossa fossana,Near Threatened,0.218,Carnivore,-0.32,Decreasing,Y,1,RNF
+Mammalia,Carnivora,Mustelidae,Galictis vittata,Least Concern,3.2,Carnivore,0.17,Unknown,U,3,BCI
+Mammalia,Carnivora,Mustelidae,Galictis vittata,Least Concern,3.2,Carnivore,-0.43,Unknown,U,3,YAS
+Mammalia,Carnivora,Eupleridae,Galidia elegans,Least Concern,0.8,Carnivore,-0.65,Decreasing,Y,2,RNF
+Mammalia,Carnivora,Eupleridae,Galidictis fasciata,Near Threatened,0.55,Carnivore,-0.11,Unknown,Y,3,RNF
+Mammalia,Carnivora,Viverridae,Genetta servalina,Least Concern,1.055,Carnivore,-0.51,Decreasing,N,2,BIF
+Mammalia,Carnivora,Viverridae,Genetta servalina,Least Concern,1.055,Carnivore,0,Stable,Y,1,KRP
+Mammalia,Carnivora,Viverridae,Genetta servalina,Least Concern,1.055,Carnivore,0.22,Increasing,N,2,NNN
+Mammalia,Carnivora,Viverridae,Genetta servalina,Least Concern,1.055,Carnivore,-0.27,Decreasing,U,1,UDZ
+Mammalia,Carnivora,Ursidae,Helarctos malayanus,Vulnerable,47,Omnivore,-0.13,Unknown,N,3,BBS
+Mammalia,Carnivora,Ursidae,Helarctos malayanus,Vulnerable,47,Omnivore,0.28,Unknown,U,3,NAK
+Mammalia,Carnivora,Ursidae,Helarctos malayanus,Vulnerable,47,Omnivore,-0.52,Decreasing,Y,3,PSH
+Mammalia,Carnivora,Viverridae,Hemigalus derbyanus,Vulnerable,2,Carnivore,0.31,Increasing,N,3,BBS
+Mammalia,Carnivora,Viverridae,Hemigalus derbyanus,Vulnerable,2,Carnivore,-0.3,Decreasing,U,3,PSH
+Mammalia,Carnivora,Herpestidae,Herpestes brachyurus,Least Concern,2,Carnivore,0.21,Unknown,N,3,BBS
+Mammalia,Carnivora,Herpestidae,Herpestes brachyurus,Least Concern,2,Carnivore,-0.86,Decreasing,U,3,PSH
+Mammalia,Carnivora,Herpestidae,Herpestes naso,Least Concern,3,Omnivore,-0.24,Stable,Y,2,KRP
+Mammalia,Carnivora,Herpestidae,Herpestes naso,Least Concern,3,Omnivore,-1.46,Decreasing,N,2,NNN
+Mammalia,Carnivora,Herpestidae,Herpestes urva,Least Concern,1.863,Carnivore,0.16,Unknown,U,3,NAK
+Mammalia,Carnivora,Felidae,Leopardus pardalis,Least Concern,11.9,Carnivore,-0.16,Stable,Y,1,BCI
+Mammalia,Carnivora,Felidae,Leopardus pardalis,Least Concern,11.9,Carnivore,-0.21,Stable,N,2,CAX
+Mammalia,Carnivora,Felidae,Leopardus pardalis,Least Concern,11.9,Carnivore,0.33,Increasing,N,1,COU
+Mammalia,Carnivora,Felidae,Leopardus pardalis,Least Concern,11.9,Carnivore,-0.1,Decreasing,Y,2,CSN
+Mammalia,Carnivora,Felidae,Leopardus pardalis,Least Concern,11.9,Carnivore,-0.16,Decreasing,N,3,VB
+Mammalia,Carnivora,Felidae,Leopardus pardalis,Least Concern,11.9,Carnivore,0.13,Stable,N,2,YAN
+Mammalia,Carnivora,Felidae,Leopardus pardalis,Least Concern,11.9,Carnivore,0.12,Stable,Y,1,YAS
+Mammalia,Carnivora,Felidae,Leopardus tigrinus,Vulnerable,2.25,Carnivore,0.33,Increasing,N,3,COU
+Mammalia,Carnivora,Felidae,Leopardus tigrinus,Vulnerable,2.25,Carnivore,0.03,Unknown,N,3,CSN
+Mammalia,Carnivora,Felidae,Leopardus wiedii,Near Threatened,3.25,Carnivore,0.13,Unknown,U,3,BCI
+Mammalia,Carnivora,Felidae,Leopardus wiedii,Near Threatened,3.25,Carnivore,0.05,Unknown,N,3,CAX
+Mammalia,Carnivora,Felidae,Leopardus wiedii,Near Threatened,3.25,Carnivore,-0.23,Unknown,N,3,COU
+Mammalia,Carnivora,Felidae,Leopardus wiedii,Near Threatened,3.25,Carnivore,-0.02,Stable,Y,2,CSN
+Mammalia,Carnivora,Felidae,Leopardus wiedii,Near Threatened,3.25,Carnivore,-0.05,Unknown,N,3,VB
+Mammalia,Carnivora,Felidae,Leopardus wiedii,Near Threatened,3.25,Carnivore,-0.81,Decreasing,N,3,YAN
+Mammalia,Carnivora,Felidae,Leopardus wiedii,Near Threatened,3.25,Carnivore,0.32,Increasing,Y,3,YAS
+Mammalia,Carnivora,Felidae,Leptailurus serval,Least Concern,12,Carnivore,0.78,Increasing,N,3,BIF
+Mammalia,Carnivora,Felidae,Leptailurus serval,Least Concern,12,Carnivore,-0.06,Unknown,U,3,UDZ
+Mammalia,Carnivora,Mustelidae,Lutra lutra,Near Threatened,11,Carnivore,0,Unknown,N,3,BBS
+Mammalia,Carnivora,Mustelidae,Martes flavigula,Least Concern,1.185,Omnivore,-0.46,Decreasing,U,3,NAK
+Mammalia,Carnivora,Mustelidae,Martes flavigula,Least Concern,1.185,Omnivore,-0.74,Decreasing,U,3,PSH
+Mammalia,Carnivora,Mustelidae,Mellivora capensis,Least Concern,9,Carnivore,-0.43,Decreasing,N,3,BIF
+Mammalia,Carnivora,Mustelidae,Mellivora capensis,Least Concern,9,Carnivore,0.18,Increasing,N,3,NNN
+Mammalia,Carnivora,Mustelidae,Mellivora capensis,Least Concern,9,Carnivore,0.09,Stable,U,2,UDZ
+Mammalia,Carnivora,Mustelidae,Melogale personata,Data Deficient,1.703,Insectivore,-0.17,Unknown,Y,3,NAK
+Mammalia,Carnivora,Herpestidae,Mungos mungo,Least Concern,1.925,Insectivore,0.11,Unknown,U,3,UDZ
+Mammalia,Carnivora,Nandiniidae,Nandinia binotata,Least Concern,2,Omnivore,0,Unknown,N,3,BIF
+Mammalia,Carnivora,Nandiniidae,Nandinia binotata,Least Concern,2,Omnivore,0.74,Increasing,Y,2,KRP
+Mammalia,Carnivora,Nandiniidae,Nandinia binotata,Least Concern,2,Omnivore,-0.35,Unknown,N,3,NNN
+Mammalia,Carnivora,Nandiniidae,Nandinia binotata,Least Concern,2,Omnivore,0.19,Increasing,N,2,UDZ
+Mammalia,Carnivora,Procyonidae,Nasua narica,Least Concern,4.03,Omnivore,-0.35,Decreasing,Y,1,BCI
+Mammalia,Carnivora,Procyonidae,Nasua narica,Least Concern,4.03,Omnivore,-0.17,Decreasing,N,3,VB
+Mammalia,Carnivora,Procyonidae,Nasua nasua,Least Concern,3.794,Omnivore,-0.27,Stable,Y,2,CAX
+Mammalia,Carnivora,Procyonidae,Nasua nasua,Least Concern,3.794,Omnivore,-0.06,Unknown,N,3,COU
+Mammalia,Carnivora,Procyonidae,Nasua nasua,Least Concern,3.794,Omnivore,-0.13,Unknown,N,3,CSN
+Mammalia,Carnivora,Procyonidae,Nasua nasua,Least Concern,3.794,Omnivore,0.01,Stable,N,2,YAN
+Mammalia,Carnivora,Procyonidae,Nasua nasua,Least Concern,3.794,Omnivore,0.26,Stable,Y,2,YAS
+Mammalia,Carnivora,Felidae,Neofelis nebulosa,Vulnerable,19.852,Carnivore,-0.1,Unknown,Y,3,PSH
+Mammalia,Carnivora,Viverridae,Paguma larvata,Least Concern,4.3,Insectivore,-0.13,Unknown,N,3,BBS
+Mammalia,Carnivora,Viverridae,Paguma larvata,Least Concern,4.3,Insectivore,-0.6,Decreasing,U,3,PSH
+Mammalia,Carnivora,Felidae,Panthera onca,Near Threatened,100,Carnivore,-0.11,Stable,N,2,CAX
+Mammalia,Carnivora,Felidae,Panthera onca,Near Threatened,100,Carnivore,-0.19,Stable,N,2,COU
+Mammalia,Carnivora,Felidae,Panthera onca,Near Threatened,100,Carnivore,-0.19,Decreasing,Y,2,CSN
+Mammalia,Carnivora,Felidae,Panthera onca,Near Threatened,100,Carnivore,0.07,Unknown,N,3,VB
+Mammalia,Carnivora,Felidae,Panthera onca,Near Threatened,100,Carnivore,0.74,Increasing,N,3,YAN
+Mammalia,Carnivora,Felidae,Panthera onca,Near Threatened,100,Carnivore,0.46,Increasing,Y,3,YAS
+Mammalia,Carnivora,Felidae,Panthera pardus,Near Threatened,55.615,Carnivore,-0.05,Stable,N,2,NNN
+Mammalia,Carnivora,Felidae,Panthera pardus,Near Threatened,55.615,Carnivore,-0.25,Unknown,Y,3,PSH
+Mammalia,Carnivora,Felidae,Panthera pardus,Near Threatened,55.615,Carnivore,-0.06,Unknown,Y,3,UDZ
+Mammalia,Carnivora,Felidae,Panthera tigris,Endangered,162.564,Carnivore,-0.06,Unknown,Y,3,BBS
+Mammalia,Carnivora,Viverridae,Paradoxurus hermaphroditus,Least Concern,3.2,Omnivore,0.35,Unknown,U,3,BBS
+Mammalia,Carnivora,Viverridae,Paradoxurus hermaphroditus,Least Concern,3.2,Omnivore,0.16,Increasing,Y,2,NAK
+Mammalia,Carnivora,Felidae,Pardofelis marmorata,Vulnerable,2.459,Carnivore,0.36,Unknown,U,3,BBS
+Mammalia,Carnivora,Felidae,Pardofelis marmorata,Vulnerable,2.459,Carnivore,-0.43,Decreasing,Y,3,NAK
+Mammalia,Carnivora,Felidae,Pardofelis marmorata,Vulnerable,2.459,Carnivore,-0.1,Unknown,Y,3,PSH
+Mammalia,Carnivora,Felidae,Pardofelis temminckii,Near Threatened,12.5,Carnivore,0,Unknown,U,3,BBS
+Mammalia,Carnivora,Felidae,Pardofelis temminckii,Near Threatened,12.5,Carnivore,0.26,Unknown,Y,3,NAK
+Mammalia,Carnivora,Felidae,Prionailurus bengalensis,Least Concern,3.3,Carnivore,0.12,Unknown,U,3,BBS
+Mammalia,Carnivora,Felidae,Prionailurus bengalensis,Least Concern,3.3,Carnivore,0,Unknown,Y,3,NAK
+Mammalia,Carnivora,Felidae,Prionailurus bengalensis,Least Concern,3.3,Carnivore,0.04,Unknown,U,3,PSH
+Mammalia,Carnivora,Felidae,Prionailurus planiceps,Endangered,3.533,Omnivore,-0.1,Unknown,U,3,PSH
+Mammalia,Carnivora,Prionodontidae,Prionodon linsang,Least Concern,0.7,Carnivore,0,Unknown,N,3,BBS
+Mammalia,Carnivora,Prionodontidae,Prionodon linsang,Least Concern,0.7,Carnivore,-0.69,Decreasing,U,3,PSH
+Mammalia,Carnivora,Procyonidae,Procyon cancrivorus,Least Concern,6.95,Carnivore,-0.15,Unknown,U,3,BCI
+Mammalia,Carnivora,Procyonidae,Procyon cancrivorus,Least Concern,6.95,Carnivore,0.18,Unknown,N,3,COU
+Mammalia,Carnivora,Procyonidae,Procyon cancrivorus,Least Concern,6.95,Carnivore,-0.15,Unknown,N,3,CSN
+Mammalia,Carnivora,Procyonidae,Procyon cancrivorus,Least Concern,6.95,Carnivore,-0.43,Unknown,N,3,YAN
+Mammalia,Carnivora,Procyonidae,Procyon cancrivorus,Least Concern,6.95,Carnivore,-0.21,Unknown,U,3,YAS
+Mammalia,Carnivora,Procyonidae,Procyon lotor,Least Concern,5.525,Omnivore,0.02,Unknown,N,3,VB
+Mammalia,Carnivora,Mustelidae,Pteronura brasiliensis,Endangered,24,Carnivore,0.21,Unknown,N,3,COU
+Mammalia,Carnivora,Felidae,Puma concolor,Least Concern,51.6,Carnivore,-0.01,Stable,N,2,CAX
+Mammalia,Carnivora,Felidae,Puma concolor,Least Concern,51.6,Carnivore,-0.11,Stable,N,2,COU
+Mammalia,Carnivora,Felidae,Puma concolor,Least Concern,51.6,Carnivore,-0.14,Decreasing,Y,3,CSN
+Mammalia,Carnivora,Felidae,Puma concolor,Least Concern,51.6,Carnivore,0.01,Unknown,N,3,VB
+Mammalia,Carnivora,Felidae,Puma concolor,Least Concern,51.6,Carnivore,-0.19,Unknown,N,3,YAN
+Mammalia,Carnivora,Felidae,Puma concolor,Least Concern,51.6,Carnivore,0.56,Increasing,Y,2,YAS
+Mammalia,Carnivora,Felidae,Puma yagouaroundi,Least Concern,8.4,Carnivore,0,Unknown,U,3,BCI
+Mammalia,Carnivora,Felidae,Puma yagouaroundi,Least Concern,8.4,Carnivore,0.25,Unknown,N,3,CAX
+Mammalia,Carnivora,Felidae,Puma yagouaroundi,Least Concern,8.4,Carnivore,-0.06,Unknown,N,3,COU
+Mammalia,Carnivora,Felidae,Puma yagouaroundi,Least Concern,8.4,Carnivore,0.07,Unknown,Y,3,CSN
+Mammalia,Carnivora,Felidae,Puma yagouaroundi,Least Concern,8.4,Carnivore,-0.15,Unknown,N,3,VB
+Mammalia,Carnivora,Felidae,Puma yagouaroundi,Least Concern,8.4,Carnivore,-0.3,Unknown,N,3,YAN
+Mammalia,Carnivora,Felidae,Puma yagouaroundi,Least Concern,8.4,Carnivore,-0.24,Stable,U,2,YAS
+Mammalia,Carnivora,Canidae,Speothos venaticus,Near Threatened,6,Carnivore,0,Unknown,N,3,CSN
+Mammalia,Carnivora,Canidae,Speothos venaticus,Near Threatened,6,Carnivore,0.78,Increasing,N,3,YAN
+Mammalia,Carnivora,Canidae,Speothos venaticus,Near Threatened,6,Carnivore,0.14,Unknown,U,3,YAS
+Mammalia,Carnivora,Ursidae,Tremarctos ornatus,Vulnerable,140.001,Omnivore,-0.43,Unknown,N,3,YAN
+Mammalia,Carnivora,Viverridae,Viverra zibetha,Near Threatened,9,Omnivore,0,Unknown,Y,3,NAK
+Mammalia,Carnivora,Viverridae,Viverra zibetha,Near Threatened,9,Omnivore,-0.25,Unknown,U,3,PSH
+Mammalia,Cetartiodactyla,Bovidae,Capricornis milneedwardsii,Near Threatened,160,Herbivore,-0.41,Unknown,Y,3,NAK
+Mammalia,Cetartiodactyla,Bovidae,Capricornis sumatraensis,Vulnerable,140,Herbivore,0.05,Unknown,Y,3,PSH
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus callipygus,Least Concern,18.25,Herbivore,-0.41,Decreasing,N,1,NNN
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus dorsalis,Least Concern,20,Omnivore,-0.04,Stable,N,1,NNN
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus harveyi,Least Concern,14.5,Herbivore,-0.04,Stable,Y,1,UDZ
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus leucogaster,Least Concern,12.7,Herbivore,0.65,Increasing,N,2,NNN
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus nigrifrons,Least Concern,13.9,Herbivore,0.15,Stable,Y,1,BIF
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus nigrifrons,Least Concern,13.9,Herbivore,-0.26,Unknown,N,3,NNN
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus ogilbyi,Least Concern,20,Herbivore,-0.09,Decreasing,Y,1,KRP
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus silvicultor,Least Concern,72.5,Herbivore,-0.27,Decreasing,N,1,BIF
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus silvicultor,Least Concern,72.5,Herbivore,0,Unknown,Y,3,KRP
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus silvicultor,Least Concern,72.5,Herbivore,0.03,Stable,N,1,NNN
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus spadix,Endangered,56,Omnivore,-0.3,Decreasing,Y,1,UDZ
+Mammalia,Cetartiodactyla,Bovidae,Cephalophus weynsi,Least Concern,2.001,Herbivore,0.43,Unknown,Y,3,BIF
+Mammalia,Cetartiodactyla,Tragulidae,Hyemoschus aquaticus,Least Concern,188.5,Herbivore,-0.2,Unknown,Y,3,KRP
+Mammalia,Cetartiodactyla,Tragulidae,Hyemoschus aquaticus,Least Concern,188.5,Herbivore,-0.21,Unknown,N,3,NNN
+Mammalia,Cetartiodactyla,Suidae,Hylochoerus meinertzhageni,Least Concern,14.936,Omnivore,0,Unknown,N,3,NNN
+Mammalia,Cetartiodactyla,Cervidae,Mazama americana,Data Deficient,22.8,Herbivore,-0.21,Stable,Y,1,CAX
+Mammalia,Cetartiodactyla,Cervidae,Mazama americana,Data Deficient,22.8,Herbivore,0.03,Stable,N,1,COU
+Mammalia,Cetartiodactyla,Cervidae,Mazama americana,Data Deficient,22.8,Herbivore,0.02,Stable,Y,1,CSN
+Mammalia,Cetartiodactyla,Cervidae,Mazama americana,Data Deficient,22.8,Herbivore,-0.12,Decreasing,N,2,YAN
+Mammalia,Cetartiodactyla,Cervidae,Mazama americana,Data Deficient,22.8,Herbivore,0.04,Stable,Y,1,YAS
+Mammalia,Cetartiodactyla,Cervidae,Mazama nemorivaga,Least Concern,0.672,Herbivore,-0.08,Stable,Y,1,CAX
+Mammalia,Cetartiodactyla,Cervidae,Mazama nemorivaga,Least Concern,0.672,Herbivore,-0.07,Stable,Y,2,CSN
+Mammalia,Cetartiodactyla,Cervidae,Mazama nemorivaga,Least Concern,0.672,Herbivore,0.24,Increasing,Y,1,YAS
+Mammalia,Cetartiodactyla,Cervidae,Mazama temama,Data Deficient,2.1,Herbivore,0.05,Stable,Y,1,BCI
+Mammalia,Cetartiodactyla,Cervidae,Mazama temama,Data Deficient,2.1,Herbivore,0.19,Increasing,Y,1,VB
+Mammalia,Cetartiodactyla,Cervidae,Muntiacus montanus,Data Deficient,18.939,Herbivore,0.58,Increasing,U,3,BBS
+Mammalia,Cetartiodactyla,Cervidae,Muntiacus muntjak,Least Concern,14,Herbivore,-0.42,Decreasing,Y,1,BBS
+Mammalia,Cetartiodactyla,Cervidae,Muntiacus muntjak,Least Concern,14,Herbivore,-0.51,Decreasing,Y,1,NAK
+Mammalia,Cetartiodactyla,Cervidae,Muntiacus muntjak,Least Concern,14,Herbivore,0.3,Increasing,Y,2,PSH
+Mammalia,Cetartiodactyla,Bovidae,Nesotragus moschatus,Least Concern,6.499,Herbivore,0.07,Increasing,Y,1,UDZ
+Mammalia,Cetartiodactyla,Cervidae,Odocoileus virginianus,Least Concern,55.509,Herbivore,0.02,Stable,Y,1,BCI
+Mammalia,Cetartiodactyla,Cervidae,Odocoileus virginianus,Least Concern,55.509,Herbivore,-0.13,Unknown,Y,3,CSN
+Mammalia,Cetartiodactyla,Cervidae,Odocoileus virginianus,Least Concern,55.509,Herbivore,0.17,Unknown,Y,3,VB
+Mammalia,Cetartiodactyla,Tayassuidae,Pecari tajacu,Least Concern,21.267,Omnivore,0.04,Stable,Y,1,BCI
+Mammalia,Cetartiodactyla,Tayassuidae,Pecari tajacu,Least Concern,21.267,Omnivore,-1.36,Decreasing,Y,1,CAX
+Mammalia,Cetartiodactyla,Tayassuidae,Pecari tajacu,Least Concern,21.267,Omnivore,0.2,Stable,N,1,COU
+Mammalia,Cetartiodactyla,Tayassuidae,Pecari tajacu,Least Concern,21.267,Omnivore,-0.21,Decreasing,Y,2,CSN
+Mammalia,Cetartiodactyla,Tayassuidae,Pecari tajacu,Least Concern,21.267,Omnivore,0.03,Stable,Y,1,VB
+Mammalia,Cetartiodactyla,Tayassuidae,Pecari tajacu,Least Concern,21.267,Omnivore,-0.21,Stable,N,2,YAN
+Mammalia,Cetartiodactyla,Tayassuidae,Pecari tajacu,Least Concern,21.267,Omnivore,0.36,Increasing,Y,1,YAS
+Mammalia,Cetartiodactyla,Bovidae,Philantomba monticola,Least Concern,4.6,Herbivore,0.49,Increasing,Y,1,KRP
+Mammalia,Cetartiodactyla,Bovidae,Philantomba monticola,Least Concern,4.6,Herbivore,-1.08,Decreasing,N,1,NNN
+Mammalia,Cetartiodactyla,Suidae,Potamochoerus larvatus,Least Concern,48.781,Omnivore,0.08,Stable,Y,2,BIF
+Mammalia,Cetartiodactyla,Suidae,Potamochoerus larvatus,Least Concern,48.781,Omnivore,0.49,Increasing,Y,2,RNF
+Mammalia,Cetartiodactyla,Suidae,Potamochoerus larvatus,Least Concern,48.781,Omnivore,0.06,Stable,Y,2,UDZ
+Mammalia,Cetartiodactyla,Suidae,Potamochoerus porcus,Least Concern,70,Omnivore,0.1,Stable,Y,2,KRP
+Mammalia,Cetartiodactyla,Suidae,Potamochoerus porcus,Least Concern,70,Omnivore,0.23,Increasing,N,1,NNN
+Mammalia,Cetartiodactyla,Cervidae,Rusa unicolor,Vulnerable,211.62,Herbivore,-0.44,Decreasing,Y,2,BBS
+Mammalia,Cetartiodactyla,Cervidae,Rusa unicolor,Vulnerable,211.62,Herbivore,0.08,Unknown,Y,3,PSH
+Mammalia,Cetartiodactyla,Suidae,Sus scrofa,Least Concern,117.286,Omnivore,-0.22,Decreasing,Y,1,BBS
+Mammalia,Cetartiodactyla,Suidae,Sus scrofa,Least Concern,117.286,Omnivore,0.1,Increasing,Y,2,NAK
+Mammalia,Cetartiodactyla,Suidae,Sus scrofa,Least Concern,117.286,Omnivore,0.55,Increasing,Y,1,PSH
+Mammalia,Cetartiodactyla,Bovidae,Syncerus caffer,Least Concern,580.003,Herbivore,-0.22,Unknown,N,3,NNN
+Mammalia,Cetartiodactyla,Bovidae,Syncerus caffer,Least Concern,580.003,Herbivore,-0.07,Unknown,Y,3,UDZ
+Mammalia,Cetartiodactyla,Tayassuidae,Tayassu pecari,Vulnerable,32.234,Omnivore,0.27,Unknown,Y,3,CAX
+Mammalia,Cetartiodactyla,Tayassuidae,Tayassu pecari,Vulnerable,32.234,Omnivore,-1.68,Decreasing,N,2,COU
+Mammalia,Cetartiodactyla,Tayassuidae,Tayassu pecari,Vulnerable,32.234,Omnivore,0.22,Increasing,Y,2,CSN
+Mammalia,Cetartiodactyla,Tayassuidae,Tayassu pecari,Vulnerable,32.234,Omnivore,-0.31,Stable,Y,1,YAS
+Mammalia,Cetartiodactyla,Bovidae,Tragelaphus eurycerus,Near Threatened,329.003,Herbivore,-0.57,Decreasing,N,3,NNN
+Mammalia,Cetartiodactyla,Bovidae,Tragelaphus scriptus,Least Concern,43.25,Herbivore,0.78,Increasing,N,3,BIF
+Mammalia,Cetartiodactyla,Bovidae,Tragelaphus scriptus,Least Concern,43.25,Herbivore,0.16,Increasing,Y,3,UDZ
+Mammalia,Cetartiodactyla,Bovidae,Tragelaphus spekii,Least Concern,77.999,Herbivore,0,Unknown,N,3,BIF
+Mammalia,Cetartiodactyla,Bovidae,Tragelaphus spekii,Least Concern,77.999,Herbivore,0,Unknown,N,3,NNN
+Mammalia,Cetartiodactyla,Tragulidae,Tragulus javanicus,Data Deficient,2.25,Herbivore,-0.46,Decreasing,Y,2,BBS
+Mammalia,Cetartiodactyla,Tragulidae,Tragulus javanicus,Data Deficient,2.25,Herbivore,0.28,Unknown,U,3,NAK
+Mammalia,Cetartiodactyla,Tragulidae,Tragulus kanchil,Least Concern,2,Herbivore,1.46,Increasing,U,3,BBS
+Mammalia,Cetartiodactyla,Tragulidae,Tragulus kanchil,Least Concern,2,Herbivore,0.09,Increasing,Y,2,NAK
+Mammalia,Cetartiodactyla,Tragulidae,Tragulus kanchil,Least Concern,2,Herbivore,0.07,Stable,Y,2,PSH
+Mammalia,Cetartiodactyla,Tragulidae,Tragulus napu,Least Concern,4,Herbivore,-0.04,Stable,Y,2,BBS
+Mammalia,Cetartiodactyla,Tragulidae,Tragulus napu,Least Concern,4,Herbivore,0.74,Increasing,U,3,PSH
+Mammalia,Cingulata,Dasypodidae,Cabassous centralis,Data Deficient,3.81,Insectivore,-0.23,Unknown,U,3,BCI
+Mammalia,Cingulata,Dasypodidae,Cabassous unicinctus,Least Concern,4.8,Insectivore,-0.25,Unknown,Y,3,CAX
+Mammalia,Cingulata,Dasypodidae,Cabassous unicinctus,Least Concern,4.8,Insectivore,0.12,Unknown,N,3,CSN
+Mammalia,Cingulata,Dasypodidae,Cabassous unicinctus,Least Concern,4.8,Insectivore,0.42,Unknown,N,3,YAN
+Mammalia,Cingulata,Dasypodidae,Dasypus kappleri,Least Concern,9.5,Herbivore,-0.22,Stable,Y,1,CAX
+Mammalia,Cingulata,Dasypodidae,Dasypus kappleri,Least Concern,9.5,Herbivore,0.1,Stable,N,2,COU
+Mammalia,Cingulata,Dasypodidae,Dasypus kappleri,Least Concern,9.5,Herbivore,-0.36,Decreasing,Y,2,CSN
+Mammalia,Cingulata,Dasypodidae,Dasypus kappleri,Least Concern,9.5,Herbivore,-0.44,Decreasing,N,3,YAN
+Mammalia,Cingulata,Dasypodidae,Dasypus kappleri,Least Concern,9.5,Herbivore,0.31,Increasing,U,2,YAS
+Mammalia,Cingulata,Dasypodidae,Dasypus novemcinctus,Least Concern,4.204,Herbivore,-0.06,Stable,U,1,BCI
+Mammalia,Cingulata,Dasypodidae,Dasypus novemcinctus,Least Concern,4.204,Herbivore,0.11,Stable,Y,1,CAX
+Mammalia,Cingulata,Dasypodidae,Dasypus novemcinctus,Least Concern,4.204,Herbivore,0.02,Stable,N,2,COU
+Mammalia,Cingulata,Dasypodidae,Dasypus novemcinctus,Least Concern,4.204,Herbivore,0.12,Increasing,Y,1,CSN
+Mammalia,Cingulata,Dasypodidae,Dasypus novemcinctus,Least Concern,4.204,Herbivore,-0.22,Decreasing,Y,1,VB
+Mammalia,Cingulata,Dasypodidae,Dasypus novemcinctus,Least Concern,4.204,Herbivore,0.16,Stable,N,1,YAN
+Mammalia,Cingulata,Dasypodidae,Dasypus novemcinctus,Least Concern,4.204,Herbivore,0.09,Stable,U,1,YAS
+Mammalia,Cingulata,Dasypodidae,Priodontes maximus,Vulnerable,45.36,Insectivore,0.05,Unknown,N,3,CAX
+Mammalia,Cingulata,Dasypodidae,Priodontes maximus,Vulnerable,45.36,Insectivore,-0.07,Stable,N,2,COU
+Mammalia,Cingulata,Dasypodidae,Priodontes maximus,Vulnerable,45.36,Insectivore,-0.14,Decreasing,Y,2,CSN
+Mammalia,Cingulata,Dasypodidae,Priodontes maximus,Vulnerable,45.36,Insectivore,0.23,Unknown,Y,3,YAS
+Mammalia,Didelphimorphia,Didelphidae,Didelphis marsupialis,Least Concern,1.091,Omnivore,-0.01,Stable,U,1,BCI
+Mammalia,Didelphimorphia,Didelphidae,Didelphis marsupialis,Least Concern,1.091,Omnivore,0.01,Stable,N,2,CAX
+Mammalia,Didelphimorphia,Didelphidae,Didelphis marsupialis,Least Concern,1.091,Omnivore,-0.9,Decreasing,N,1,COU
+Mammalia,Didelphimorphia,Didelphidae,Didelphis marsupialis,Least Concern,1.091,Omnivore,0.03,Stable,N,1,CSN
+Mammalia,Didelphimorphia,Didelphidae,Didelphis marsupialis,Least Concern,1.091,Omnivore,-0.2,Decreasing,N,3,VB
+Mammalia,Didelphimorphia,Didelphidae,Didelphis marsupialis,Least Concern,1.091,Omnivore,0.26,Increasing,N,3,YAN
+Mammalia,Didelphimorphia,Didelphidae,Didelphis marsupialis,Least Concern,1.091,Omnivore,0.56,Increasing,U,3,YAS
+Mammalia,Didelphimorphia,Didelphidae,Metachirus nudicaudatus,Least Concern,0.375,Omnivore,0.02,Stable,U,2,BCI
+Mammalia,Didelphimorphia,Didelphidae,Metachirus nudicaudatus,Least Concern,0.375,Omnivore,0.08,Stable,N,2,CAX
+Mammalia,Didelphimorphia,Didelphidae,Metachirus nudicaudatus,Least Concern,0.375,Omnivore,0.04,Stable,N,2,CSN
+Mammalia,Didelphimorphia,Didelphidae,Metachirus nudicaudatus,Least Concern,0.375,Omnivore,-0.1,Unknown,N,3,VB
+Mammalia,Didelphimorphia,Didelphidae,Metachirus nudicaudatus,Least Concern,0.375,Omnivore,0.14,Unknown,N,3,YAN
+Mammalia,Didelphimorphia,Didelphidae,Metachirus nudicaudatus,Least Concern,0.375,Omnivore,0.18,Unknown,U,3,YAS
+Mammalia,Didelphimorphia,Didelphidae,Philander andersoni,Least Concern,0.325,Omnivore,-0.43,Unknown,U,3,YAS
+Mammalia,Didelphimorphia,Didelphidae,Philander opossum,Least Concern,0.421,Omnivore,0.17,Unknown,U,3,BCI
+Mammalia,Didelphimorphia,Didelphidae,Philander opossum,Least Concern,0.421,Omnivore,0.47,Increasing,N,2,COU
+Mammalia,Didelphimorphia,Didelphidae,Philander opossum,Least Concern,0.421,Omnivore,-0.24,Decreasing,N,2,CSN
+Mammalia,Didelphimorphia,Didelphidae,Philander opossum,Least Concern,0.421,Omnivore,0.05,Unknown,N,3,VB
+Mammalia,Eulipotyphla,Erinaceidae,Echinosorex gymnura,Least Concern,0.957,Insectivore,-0.03,Unknown,N,3,BBS
+Mammalia,Eulipotyphla,Erinaceidae,Echinosorex gymnura,Least Concern,0.957,Insectivore,-0.39,Unknown,U,3,PSH
+Mammalia,Lagomorpha,Leporidae,Sylvilagus brasiliensis,Least Concern,0.95,Herbivore,0,Unknown,U,3,BCI
+Mammalia,Lagomorpha,Leporidae,Sylvilagus brasiliensis,Least Concern,0.95,Herbivore,-0.23,Unknown,N,3,COU
+Mammalia,Lagomorpha,Leporidae,Sylvilagus brasiliensis,Least Concern,0.95,Herbivore,-0.43,Decreasing,U,3,YAS
+Mammalia,Macroscelidea,Macroscelididae,Petrodromus tetradactylus,Least Concern,0.188,Insectivore,-0.01,Unknown,U,3,UDZ
+Mammalia,Macroscelidea,Macroscelididae,Rhynchocyon cirnei,Near Threatened,0.49,Insectivore,-0.1,Unknown,U,3,UDZ
+Mammalia,Macroscelidea,Macroscelididae,Rhynchocyon udzungwensis,Vulnerable,0.75,Insectivore,-0.01,Stable,U,1,UDZ
+Mammalia,Perissodactyla,Tapiridae,Tapirus bairdii,Endangered,225,Herbivore,0,Unknown,U,3,BCI
+Mammalia,Perissodactyla,Tapiridae,Tapirus bairdii,Endangered,225,Herbivore,-0.14,Decreasing,U,1,VB
+Mammalia,Perissodactyla,Tapiridae,Tapirus indicus,Endangered,296.25,Herbivore,-0.06,Stable,Y,2,BBS
+Mammalia,Perissodactyla,Tapiridae,Tapirus indicus,Endangered,296.25,Herbivore,0.92,Increasing,N,2,PSH
+Mammalia,Perissodactyla,Tapiridae,Tapirus terrestris,Vulnerable,207.501,Herbivore,0.1,Stable,Y,2,CAX
+Mammalia,Perissodactyla,Tapiridae,Tapirus terrestris,Vulnerable,207.501,Herbivore,0.35,Increasing,N,1,COU
+Mammalia,Perissodactyla,Tapiridae,Tapirus terrestris,Vulnerable,207.501,Herbivore,-0.03,Stable,Y,1,CSN
+Mammalia,Perissodactyla,Tapiridae,Tapirus terrestris,Vulnerable,207.501,Herbivore,-0.34,Decreasing,N,2,YAN
+Mammalia,Perissodactyla,Tapiridae,Tapirus terrestris,Vulnerable,207.501,Herbivore,0.3,Increasing,Y,1,YAS
+Mammalia,Pholidota,Manidae,Manis javanica,Endangered,5.15,Insectivore,-0.24,Unknown,Y,3,BBS
+Mammalia,Pholidota,Manidae,Manis javanica,Endangered,5.15,Insectivore,0.13,Unknown,Y,3,NAK
+Mammalia,Pholidota,Manidae,Manis javanica,Endangered,5.15,Insectivore,-0.12,Unknown,Y,3,PSH
+Mammalia,Pholidota,Manidae,Phataginus tricuspis,Near Threatened,1.8,Insectivore,-0.14,Unknown,N,3,BIF
+Mammalia,Pholidota,Manidae,Phataginus tricuspis,Near Threatened,1.8,Insectivore,-0.59,Decreasing,Y,2,KRP
+Mammalia,Pholidota,Manidae,Phataginus tricuspis,Near Threatened,1.8,Insectivore,0.32,Increasing,N,3,NNN
+Mammalia,Pholidota,Manidae,Smutsia gigantea,Near Threatened,12.5,Insectivore,0.29,Increasing,N,3,NNN
+Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga tridactyla,Vulnerable,22.333,Insectivore,-0.3,Stable,Y,2,CAX
+Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga tridactyla,Vulnerable,22.333,Insectivore,-0.3,Decreasing,N,2,COU
+Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga tridactyla,Vulnerable,22.333,Insectivore,-0.32,Decreasing,Y,2,CSN
+Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga tridactyla,Vulnerable,22.333,Insectivore,-0.14,Unknown,N,3,YAN
+Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga tridactyla,Vulnerable,22.333,Insectivore,-0.02,Stable,Y,2,YAS
+Mammalia,Pilosa,Myrmecophagidae,Tamandua mexicana,Least Concern,4.21,Insectivore,-0.06,Stable,U,2,BCI
+Mammalia,Pilosa,Myrmecophagidae,Tamandua mexicana,Least Concern,4.21,Insectivore,-0.16,Decreasing,N,3,VB
+Mammalia,Pilosa,Myrmecophagidae,Tamandua tetradactyla,Least Concern,5.515,Insectivore,0.02,Stable,Y,2,CAX
+Mammalia,Pilosa,Myrmecophagidae,Tamandua tetradactyla,Least Concern,5.515,Insectivore,-0.21,Unknown,N,3,COU
+Mammalia,Pilosa,Myrmecophagidae,Tamandua tetradactyla,Least Concern,5.515,Insectivore,-0.05,Unknown,Y,3,CSN
+Mammalia,Pilosa,Myrmecophagidae,Tamandua tetradactyla,Least Concern,5.515,Insectivore,0.3,Unknown,N,3,YAN
+Mammalia,Pilosa,Myrmecophagidae,Tamandua tetradactyla,Least Concern,5.515,Insectivore,-0.02,Unknown,U,3,YAS
+Mammalia,Primates,Cercopithecidae,Cercocebus agilis,Least Concern,8,Omnivore,-0.4,Decreasing,N,3,NNN
+Mammalia,Primates,Cercopithecidae,Cercocebus sanjei,Endangered,8,Omnivore,0.05,Stable,U,1,UDZ
+Mammalia,Primates,Cercopithecidae,Cercocebus torquatus,Vulnerable,7.75,Omnivore,-0.37,Stable,Y,2,KRP
+Mammalia,Primates,Cercopithecidae,Cercopithecus lhoesti,Vulnerable,5.375,Omnivore,0.21,Stable,N,1,BIF
+Mammalia,Primates,Cercopithecidae,Cercopithecus mitis,Least Concern,5,Omnivore,0.25,Unknown,N,3,BIF
+Mammalia,Primates,Cercopithecidae,Cercopithecus mitis,Least Concern,5,Omnivore,0.07,Stable,Y,2,UDZ
+Mammalia,Primates,Cercopithecidae,Cercopithecus nictitans,Least Concern,5.41,Omnivore,-0.66,Unknown,Y,3,KRP
+Mammalia,Primates,Cercopithecidae,Cercopithecus nictitans,Least Concern,5.41,Omnivore,0,Unknown,N,3,NNN
+Mammalia,Primates,Lemuridae,Eulemur rufifrons,Near Threatened,0.3,Herbivore,-0.35,Decreasing,N,3,RNF
+Mammalia,Primates,Hominidae,Gorilla beringei,Endangered,124.251,Herbivore,-0.16,Unknown,N,3,BIF
+Mammalia,Primates,Hominidae,Gorilla gorilla,Critically Endangered,180,Herbivore,-0.35,Decreasing,N,1,NNN
+Mammalia,Primates,Cercopithecidae,Macaca arctoides,Vulnerable,5,Omnivore,0.09,Unknown,Y,3,NAK
+Mammalia,Primates,Cercopithecidae,Macaca assamensis,Near Threatened,12,Omnivore,-0.26,Unknown,Y,3,NAK
+Mammalia,Primates,Cercopithecidae,Macaca fascicularis,Least Concern,4.75,Omnivore,-0.26,Unknown,N,3,BBS
+Mammalia,Primates,Cercopithecidae,Macaca fascicularis,Least Concern,4.75,Omnivore,-0.02,Unknown,Y,3,PSH
+Mammalia,Primates,Cercopithecidae,Macaca leonina,Vulnerable,6.093,Omnivore,-0.07,Stable,Y,2,NAK
+Mammalia,Primates,Cercopithecidae,Macaca nemestrina,Vulnerable,6.5,Omnivore,-0.83,Decreasing,N,1,BBS
+Mammalia,Primates,Cercopithecidae,Macaca nemestrina,Vulnerable,6.5,Omnivore,-0.25,Stable,Y,1,PSH
+Mammalia,Primates,Cercopithecidae,Mandrillus leucophaeus,Endangered,15,Omnivore,0.07,Stable,Y,2,KRP
+Mammalia,Primates,Hominidae,Pan troglodytes,Endangered,45,Omnivore,0.05,Stable,N,2,BIF
+Mammalia,Primates,Hominidae,Pan troglodytes,Endangered,45,Omnivore,-0.1,Stable,N,1,NNN
+Mammalia,Primates,Cercopithecidae,Papio anubis,Least Concern,21.25,Omnivore,-0.13,Decreasing,N,2,BIF
+Mammalia,Primates,Cercopithecidae,Papio cynocephalus,Least Concern,18.4,Omnivore,-0.18,Unknown,Y,3,UDZ
+Mammalia,Primates,Cercopithecidae,Presbytis siamensis,Near Threatened,6.6,Herbivore,-0.42,Unknown,Y,3,PSH
+Mammalia,Proboscidea,Elephantidae,Elephas maximus,Endangered,2720,Herbivore,0.28,Increasing,Y,3,BBS
+Mammalia,Proboscidea,Elephantidae,Loxodonta africana,Vulnerable,3940.034,Herbivore,0.74,Increasing,N,3,BIF
+Mammalia,Proboscidea,Elephantidae,Loxodonta africana,Vulnerable,3940.034,Herbivore,0.23,Unknown,Y,3,KRP
+Mammalia,Proboscidea,Elephantidae,Loxodonta africana,Vulnerable,3940.034,Herbivore,-0.33,Decreasing,N,1,NNN
+Mammalia,Proboscidea,Elephantidae,Loxodonta africana,Vulnerable,3940.034,Herbivore,0.02,Stable,Y,2,UDZ
+Mammalia,Rodentia,Hystricidae,Atherurus africanus,Least Concern,1.934,Omnivore,-0.67,Decreasing,N,3,BIF
+Mammalia,Rodentia,Hystricidae,Atherurus africanus,Least Concern,1.934,Omnivore,-0.22,Decreasing,Y,1,KRP
+Mammalia,Rodentia,Hystricidae,Atherurus africanus,Least Concern,1.934,Omnivore,-0.02,Stable,N,2,NNN
+Mammalia,Rodentia,Hystricidae,Atherurus macrourus,Least Concern,2,Omnivore,0.09,Stable,Y,1,NAK
+Mammalia,Rodentia,Hystricidae,Atherurus macrourus,Least Concern,2,Omnivore,-0.02,Stable,Y,2,PSH
+Mammalia,Rodentia,Nesomyidae,Cricetomys emini,Least Concern,1.3,Omnivore,1.24,Increasing,N,3,BIF
+Mammalia,Rodentia,Nesomyidae,Cricetomys emini,Least Concern,1.3,Omnivore,-1.26,Stable,Y,1,KRP
+Mammalia,Rodentia,Nesomyidae,Cricetomys emini,Least Concern,1.3,Omnivore,1.1,Increasing,N,2,NNN
+Mammalia,Rodentia,Nesomyidae,Cricetomys gambianus,Least Concern,1.285,Omnivore,0.27,Increasing,N,2,BIF
+Mammalia,Rodentia,Nesomyidae,Cricetomys gambianus,Least Concern,1.285,Omnivore,-0.32,Decreasing,N,2,NNN
+Mammalia,Rodentia,Nesomyidae,Cricetomys gambianus,Least Concern,1.285,Omnivore,0.13,Increasing,Y,1,UDZ
+Mammalia,Rodentia,Cuniculidae,Cuniculus paca,Least Concern,8,Herbivore,0.23,Increasing,Y,1,BCI
+Mammalia,Rodentia,Cuniculidae,Cuniculus paca,Least Concern,8,Herbivore,0.09,Stable,Y,1,CAX
+Mammalia,Rodentia,Cuniculidae,Cuniculus paca,Least Concern,8,Herbivore,0.25,Increasing,N,1,COU
+Mammalia,Rodentia,Cuniculidae,Cuniculus paca,Least Concern,8,Herbivore,0.08,Increasing,Y,1,CSN
+Mammalia,Rodentia,Cuniculidae,Cuniculus paca,Least Concern,8,Herbivore,-0.28,Decreasing,Y,1,VB
+Mammalia,Rodentia,Cuniculidae,Cuniculus paca,Least Concern,8,Herbivore,0.03,Stable,N,1,YAN
+Mammalia,Rodentia,Cuniculidae,Cuniculus paca,Least Concern,8,Herbivore,0.26,Increasing,Y,1,YAS
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta fuliginosa,Least Concern,3.5,Herbivore,0.14,Increasing,N,1,YAN
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta fuliginosa,Least Concern,3.5,Herbivore,0.04,Stable,Y,1,YAS
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta leporina,Least Concern,3.02,Herbivore,-0.42,Decreasing,Y,1,CAX
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta leporina,Least Concern,3.02,Herbivore,-0.03,Stable,Y,1,CSN
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta punctata,Least Concern,2.675,Herbivore,-0.24,Decreasing,Y,1,BCI
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta punctata,Least Concern,2.675,Herbivore,0.18,Increasing,N,1,COU
+Mammalia,Rodentia,Dasyproctidae,Dasyprocta punctata,Least Concern,2.675,Herbivore,-0.19,Decreasing,Y,1,VB
+Mammalia,Rodentia,Sciuridae,Funisciurus anerythrus,Least Concern,0.286,Herbivore,-0.47,Decreasing,U,2,KRP
+Mammalia,Rodentia,Sciuridae,Funisciurus lemniscatus,Least Concern,0.25,Herbivore,-1.11,Decreasing,N,3,NNN
+Mammalia,Rodentia,Sciuridae,Funisciurus leucogenys,Least Concern,0.297,Herbivore,-0.1,Stable,U,1,KRP
+Mammalia,Rodentia,Sciuridae,Funisciurus pyrropus,Least Concern,3.2,Herbivore,-1.09,Decreasing,U,2,KRP
+Mammalia,Rodentia,Sciuridae,Funisciurus pyrropus,Least Concern,3.2,Herbivore,-0.35,Unknown,N,3,NNN
+Mammalia,Rodentia,Echimyidae,Hoplomys gymnurus,Least Concern,0.24,Omnivore,0.18,Increasing,U,3,BCI
+Mammalia,Rodentia,Caviidae,Hydrochoerus hydrochaeris,Least Concern,48.145,Herbivore,-0.21,Unknown,N,3,COU
+Mammalia,Rodentia,Caviidae,Hydrochoerus isthmius,Data Deficient,10.85,Herbivore,-0.26,Unknown,Y,3,BCI
+Mammalia,Rodentia,Hystricidae,Hystrix africaeaustralis,Least Concern,8,Omnivore,-0.29,Decreasing,Y,3,UDZ
+Mammalia,Rodentia,Hystricidae,Hystrix brachyura,Least Concern,8,Omnivore,0.02,Stable,Y,1,BBS
+Mammalia,Rodentia,Hystricidae,Hystrix brachyura,Least Concern,8,Omnivore,0.23,Increasing,Y,3,NAK
+Mammalia,Rodentia,Hystricidae,Hystrix brachyura,Least Concern,8,Omnivore,0.1,Stable,Y,2,PSH
+Mammalia,Rodentia,Sciuridae,Lariscus insignis,Least Concern,0.2,Omnivore,0.09,Unknown,N,3,BBS
+Mammalia,Rodentia,Sciuridae,Lariscus insignis,Least Concern,0.2,Omnivore,-0.63,Decreasing,Y,3,PSH
+Mammalia,Rodentia,Muridae,Leopoldamys sabanus,Least Concern,0.391,Insectivore,-0.17,Unknown,Y,3,NAK
+Mammalia,Rodentia,Muridae,Leopoldamys sabanus,Least Concern,0.391,Insectivore,1.02,Increasing,U,1,PSH
+Mammalia,Rodentia,Dasyproctidae,Myoprocta acouchy,Least Concern,0.6,Herbivore,-0.08,Decreasing,Y,1,CSN
+Mammalia,Rodentia,Dasyproctidae,Myoprocta pratti,Least Concern,1.88,Herbivore,0.27,Increasing,N,1,COU
+Mammalia,Rodentia,Dasyproctidae,Myoprocta pratti,Least Concern,1.88,Herbivore,-0.34,Decreasing,Y,1,YAS
+Mammalia,Rodentia,Nesomyidae,Nesomys rufus,Least Concern,0.163,Herbivore,-0.5,Decreasing,N,1,RNF
+Mammalia,Rodentia,Sciuridae,Paraxerus vexillarius,Near Threatened,0.675,Herbivore,-0.04,Stable,U,1,UDZ
+Mammalia,Rodentia,Echimyidae,Proechimys brevicauda,Least Concern,0.285,Omnivore,1.08,Increasing,N,1,COU
+Mammalia,Rodentia,Echimyidae,Proechimys cuvieri,Least Concern,0.33,Omnivore,0.12,Unknown,N,3,CSN
+Mammalia,Rodentia,Echimyidae,Proechimys guyannensis,Least Concern,0.225,Omnivore,-0.12,Decreasing,N,2,CSN
+Mammalia,Rodentia,Echimyidae,Proechimys semispinosus,Least Concern,0.361,Omnivore,-0.26,Decreasing,U,1,BCI
+Mammalia,Rodentia,Echimyidae,Proechimys semispinosus,Least Concern,0.361,Omnivore,-0.48,Decreasing,N,3,VB
+Mammalia,Rodentia,Sciuridae,Protoxerus stangeri,Least Concern,0.592,Herbivore,0.16,Increasing,N,1,NNN
+Mammalia,Rodentia,Muridae,Rattus rattus,Least Concern,0.28,Omnivore,0.22,Increasing,N,2,RNF
+Mammalia,Rodentia,Sciuridae,Rhinosciurus laticaudatus,Near Threatened,0.221,Herbivore,0.14,Unknown,U,3,PSH
+Mammalia,Rodentia,Spalacidae,Rhizomys sumatrensis,Least Concern,0.25,Herbivore,-0.81,Unknown,Y,3,PSH
+Mammalia,Rodentia,Sciuridae,Sciurus granatensis,Least Concern,0.25,Herbivore,0.1,Increasing,Y,2,BCI
+Mammalia,Rodentia,Sciuridae,Sciurus granatensis,Least Concern,0.25,Herbivore,-0.13,Unknown,N,3,VB
+Mammalia,Rodentia,Sciuridae,Sciurus ignitus,Data Deficient,0.19,Herbivore,-0.12,Stable,N,2,COU
+Mammalia,Rodentia,Sciuridae,Sciurus igniventris,Least Concern,0.7,Herbivore,0.14,Unknown,N,3,COU
+Mammalia,Rodentia,Sciuridae,Sciurus igniventris,Least Concern,0.7,Herbivore,-0.42,Decreasing,Y,1,YAS
+Mammalia,Rodentia,Sciuridae,Sciurus spadiceus,Least Concern,0.403,Herbivore,0.35,Increasing,N,3,COU
+Mammalia,Rodentia,Sciuridae,Sciurus spadiceus,Least Concern,0.403,Herbivore,0.51,Increasing,N,2,YAN
+Mammalia,Rodentia,Sciuridae,Sundasciurus hippurus,Near Threatened,0.5,Herbivore,-0.81,Unknown,Y,3,PSH
+Mammalia,Rodentia,Thryonomyidae,Thryonomys gregorianus,Least Concern,2.707,Herbivore,0.14,Unknown,N,3,BIF
+Mammalia,Rodentia,Thryonomyidae,Thryonomys swinderianus,Least Concern,4.06,Herbivore,-0.43,Unknown,N,3,BIF
+Mammalia,Rodentia,Thryonomyidae,Thryonomys swinderianus,Least Concern,4.06,Herbivore,0.66,Unknown,Y,3,KRP
+Mammalia,Rodentia,Thryonomyidae,Thryonomys swinderianus,Least Concern,4.06,Herbivore,0.13,Unknown,N,3,NNN
+Mammalia,Rodentia,Thryonomyidae,Thryonomys swinderianus,Least Concern,4.06,Herbivore,0.18,Unknown,Y,3,UDZ
+Mammalia,Rodentia,Hystricidae,Trichys fasciculata,Least Concern,1.75,Omnivore,0.21,Unknown,N,3,BBS
+Mammalia,Scandentia,Tupaiidae,Tupaia glis,Least Concern,0.159,Omnivore,-0.44,Decreasing,Y,2,PSH
+Mammalia,Scandentia,Tupaiidae,Tupaia tana,Least Concern,0.198,Insectivore,-0.22,Decreasing,N,3,BBS
